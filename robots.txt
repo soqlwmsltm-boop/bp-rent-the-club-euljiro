@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://the-club-euljiro.xyz/sitemap.xml
+Sitemap: https://the-club-euljiro.xyz/sitemap-index.xml
